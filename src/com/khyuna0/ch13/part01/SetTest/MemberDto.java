@@ -1,4 +1,4 @@
-package com.khyuna0.ch12.part01.SetTest;
+package com.khyuna0.ch13.part01.SetTest;
 
 public class MemberDto {
 	

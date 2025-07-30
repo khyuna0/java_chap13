@@ -1,4 +1,4 @@
-package com.khyuna0.ch12.part01;
+package com.khyuna0.ch13.part01.Link;
 
 import java.sql.Timestamp;
 

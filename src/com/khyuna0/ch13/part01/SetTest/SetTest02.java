@@ -1,4 +1,4 @@
-package com.khyuna0.ch12.part01.SetTest;
+package com.khyuna0.ch13.part01.SetTest;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -18,8 +18,6 @@ public class SetTest02 {
 		set.add(member1);
 		
 		System.out.println(set.size()); // = 1 중복 허용 x
-		
-		
 		
 		
 	}
