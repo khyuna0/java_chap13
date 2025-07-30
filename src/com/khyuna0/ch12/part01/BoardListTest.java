@@ -17,7 +17,6 @@ public class BoardListTest {
 		board1.setWriter("홍길동");
 		board1.setSubjext("안녕하세요");
 		board1.setContent("가입인사");
-		
 		board1.setDateTimestamp(new Timestamp(nowDate.getTime()));
 		
 		boardList.add(board1);
