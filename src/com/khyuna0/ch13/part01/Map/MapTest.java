@@ -1,4 +1,4 @@
-package com.kyuna0.ch13.part01.Map;
+package com.khyuna0.ch13.part01.Map;
 
 import java.util.HashMap;
 import java.util.Iterator;
