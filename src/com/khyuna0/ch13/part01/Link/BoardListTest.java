@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import com.khyuna0.ch13.part01.Exer.Board;
+
 public class BoardListTest {
 	
 	public static void main(String[] args) {

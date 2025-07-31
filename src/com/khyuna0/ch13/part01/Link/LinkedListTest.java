@@ -6,6 +6,8 @@ import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
+import com.khyuna0.ch13.part01.Exer.Board;
+
 public class LinkedListTest {
 
 	public static void main(String[] args) {
