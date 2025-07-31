@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MemberDao {
-	public List<MemberDto> getMemberDao() {
+	public List<MemberDto> getMemberDao() { 
 		List<MemberDto> list = new ArrayList<MemberDto>();
 		
 		list.add(new MemberDto("tiger", "12345", "홍길동", "tiger@abc.com"));
